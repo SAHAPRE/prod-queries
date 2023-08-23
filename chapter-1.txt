@@ -1,5 +1,4 @@
-Chapter 1 - The Beginning
-It was the best of times, it was the worst of times
-
-Let's learn git.
-
+ Do with git
+ It was the best of times, it was the worst of times
+The Beginning
+Work harder to get the result, don't wish for it, work for it 
